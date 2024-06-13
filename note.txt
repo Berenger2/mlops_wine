@@ -1,0 +1,6 @@
+## Note
+
+Mlflow Tracking URI set postgresql
+https://github.com/mlflow/mlflow/issues/7747
+
+https://mlflow.org/docs/latest/tracking/tutorials/remote-server.html
