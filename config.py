@@ -1,0 +1,1 @@
+MLFLOW_TRACKING_URI = "wine_pred.db"
